@@ -1,0 +1,30 @@
+.active{
+	width: 100%px;
+	background: #f8f8f8;
+	margin-bottom: 10px;
+}
+.navbar-default{
+	/*padding-left: 100px;*/
+	width: 1140px;
+	margin: auto;
+}
+.dropdown{
+	padding-left: 200px;
+}
+.alert-dismissible{
+		width: 1140px;
+	     margin: auto;
+	     margin-bottom: 10px;
+}
+.main{
+	width: 1140px;
+	height: 283px;
+	margin: auto;
+	/*background: red;*/
+}
+.main-left{
+	width: 556px;
+	height: 277px;
+/*	background: pink;*/
+	float: left;
+}
